@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/52136102/120937516-2a6a2100-c70e-11eb-82a0-fc203d5d598b.gif)
 <!--
 **EMaczka/EMaczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
